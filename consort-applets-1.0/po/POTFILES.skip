@@ -1,0 +1,21 @@
+# List of source files containing translatable strings that
+# should NOT be translated.
+# Please keep this file sorted alphabetically (in the ASCII sense:
+# upper-case before lower-case).
+#
+accessx-status/org.consort.applets.AccessxStatusApplet.panel-applet.in
+battstat/org.consort.applets.BattstatApplet.panel-applet.in
+charpick/org.consort.applets.CharpickerApplet.panel-applet.in
+cpufreq/org.consort.applets.CPUFreqApplet.panel-applet.in
+drivemount/drivemount/org.consort.applets.DriveMountApplet.panel-applet.in
+geyes/org.consort.applets.GeyesApplet.panel-applet.in
+gweather/org.consort.applets.GWeatherApplet.panel-applet.in
+gweather/Locations.xml.in
+invest-applet/data/Invest_Applet.server.in
+mini-commander/src/org.consort.applets.MiniCommanderApplet.panel-applet.in
+mixer/org.consort.applets.MixerApplet.panel-applet.in
+modemlights/org.consort.applets.ModemApplet.panel-applet.in
+multiload/org.consort.applets.MultiLoadApplet.panel-applet.in
+null_applet/GNOME_NullApplet_Factory.server.in
+stickynotes/org.consort.applets.StickyNotesApplet.panel-applet.in
+trashapplet/org.consort.applets.TrashApplet.panel-applet.in

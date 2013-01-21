@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.consort.panel.applet.MiniCommanderAppletFactory
+Exec=@LIBEXECDIR@/mini_commander_applet
